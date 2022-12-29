@@ -1,8 +1,8 @@
-[![MasterHead]()]
+![MasterHead](https://camo.githubusercontent.com/e401fb6657033d782eb1bfc2582ccbdc0677d1cea84285743eff743056116686/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f617274696e73706972696e672f617274696e73706972696e67313930392f617274696e73706972696e673139303930313332352f3133303736393933322d636f6e636574746f2d64692d62616e6e65722d7765622d64692d7376696c7570706f2d66726f6e74656e642d696e7465726661636369612d64656c2d7369746f2d7765622e6a7067)
 
 <h1 align="center">Hi 👋, I'm Riya Shrivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
+img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyashri07&label=Profile%20views&color=0e75b6&style=flat" alt="riyashri07" /> </p>
 
