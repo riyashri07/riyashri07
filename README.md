@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)
 <h1 align="center">Hi👋, I'm Riya Shrivastava</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
+- 📫 How to reach me **<a href="https://riyashri07.github.io/" target="blank">Portfolio.github.io</a> **
 
 <!--
 [![](https://visitcount.itsvg.in/api?id=riyashri07&icon=5&color=12)](https://visitcount.itsvg.in) -->
@@ -25,6 +26,9 @@ Here are some ideas to get you started:
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/riyashri07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=riyashri07&label=Profile%20views&color=8e24aa&style=for-the-badge" alt="riyashri07" />
     <img src="https://img.shields.io/github/directory-file-count/riyashri07/JS101_Learning_Javascript?style=for-the-badge" alt="total Repo Count">
+</p>
+</p>
+<a href="https://riyashri07.github.io/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fportfolio_726056&psig=AOvVaw3H8oxZXP0GgEl4SwMXbdCP&ust=1675250307542000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPi-nOzX8fwCFQAAAAAdAAAAABAE" alt="riyashri07" height="30" width="40" /></a>
 </p>
 
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
