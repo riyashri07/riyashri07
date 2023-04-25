@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)
 <h1 align="center">Hi👋, I'm Riya Shrivastava</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-- 📫 How to reach me **<a href="https://riyashri07.github.io/" target="blank">Portfolio.github.io</a> **
+
 
 <!--
 [![](https://visitcount.itsvg.in/api?id=riyashri07&icon=5&color=12)](https://visitcount.itsvg.in) -->
@@ -27,9 +27,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=riyashri07&label=Profile%20views&color=8e24aa&style=for-the-badge" alt="riyashri07" />
     <img src="https://img.shields.io/github/directory-file-count/riyashri07/JS101_Learning_Javascript?style=for-the-badge" alt="total Repo Count">
 </p>
-</p>
-<a href="https://riyashri07.github.io/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fportfolio_726056&psig=AOvVaw3H8oxZXP0GgEl4SwMXbdCP&ust=1675250307542000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPi-nOzX8fwCFQAAAAAdAAAAABAE" alt="riyashri07" height="30" width="40" /></a>
-</p>
+
 
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
 
@@ -38,6 +36,8 @@ Here are some ideas to get you started:
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/riya-shrivastava-87b8911b9/">**Riya Shrivastava**</a>
 
 - <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **riyampct7@Gmail.com**
+
+- <img width="13px" src="https://cdn-icons-png.flaticon.com/512/4365/4365934.png" alt="Portfolio Icon" /> My portfolio **<a>https://riyashri07.github.io</a>**
 
 ## ✍️ Dev Quote :
 
@@ -60,18 +60,24 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<a href="#"><img alt="Json Server" src="https://img.shields.io/badge/json%20server-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
+<a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
+<a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="#"><img alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+
 
 ## 👨‍💻 Software and tools :
 
