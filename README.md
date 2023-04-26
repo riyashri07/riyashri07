@@ -116,17 +116,17 @@ Here are some ideas to get you started:
 ## 📂 Projects :
 
 <p>
+<a href="https://github.com/RitikSingh11661/noble-weather-6049">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RitikSingh11661&repo=noble-weather-6049&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+</a>
+<a href="https://github.com/KaustubhN12/nappy-prose-7608">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhN12&repo=nappy-prose-7608&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+</a>
+<a href="https://github.com/riyashri07/makeshift-top-3565">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyashri07&repo=makeshift-top-3565&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+</a>
 <a href="https://github.com/riyashri07/simple-tank-2275">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyashri07&repo=simple-tank-2275&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
-</a>
-<!-- <a href="https://github.com/SutharShantanu/-absurd-stage-2740">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-absurd-stage-2740&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
-</a>
-<a href="https://github.com/SutharShantanu/-fit-hook-8952">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-fit-hook-8952&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
-</a> -->
-<a href="https://github.com/riyashri07/JS101_Learning_Javascript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyashri07&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
 </a>
 </p>
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sutharshantanu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
